@@ -1,5 +1,5 @@
 # my generic web app framework
-> [dev project] ALFA
+> [dev project] charlie
 
 reference: [gist] (https://gist.github.com/barrycumbie/36fff4083f20439615e1ed7811f81a3c)
 
