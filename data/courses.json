@@ -1,0 +1,57 @@
+[
+    {
+        "id": "101",
+        "name": "Programming I",
+        "hours": 3,
+        "date": "2026-01-10",
+        "tags": [
+            "Programming",
+            "Beginner"
+        ],
+        "liked": false,
+        "links": [
+            {
+                "description": "Course Website",
+                "url": "https://example.com/programming"
+            }
+        ]
+    },
+
+
+    {
+        "id": "220",
+        "name": "Database Systems",
+        "hours": 3,
+        "date": "2026-02-15",
+        "tags": [
+            "Database",
+            "SQL"
+        ],
+        "liked": false,
+        "links": [
+            {
+                "description": "SQL Tutorial",
+                "url": "https://example.com/sql"
+            }
+        ]
+    },
+
+
+    {
+        "id": "330",
+        "name": "Cyber Security",
+        "hours": 4,
+        "date": "2026-03-20",
+        "tags": [
+            "Security",
+            "Networking"
+        ],
+        "liked": false,
+        "links": [
+            {
+                "description": "Security Resources",
+                "url": "https://example.com/security"
+            }
+        ]
+    }
+]
